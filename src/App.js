@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Pour l'instant tout se passe dans <code>src/App.js</code>
+            Pour l'instant tout se passe en <code>entre Github et DockerHub</code>
           </p>
         </header>
       </div>
