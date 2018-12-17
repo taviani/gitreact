@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo} className="App-logo" alt="pastèque" />
           <p>
               Pour l'instant tout se passe entre les sources sur <code> Github</code> et le build dans <code>DockerHub</code>
           </p>
