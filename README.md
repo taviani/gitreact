@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8d8d4aaec93b49449b2bf43c1fda76be)](https://app.codacy.com/app/taviani/gitreact?utm_source=github.com&utm_medium=referral&utm_content=taviani/gitreact&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/taviani/gitreact.svg?branch=master)](https://travis-ci.org/taviani/gitreact)
 
 C'est juste une version de [Create React App](https://github.com/facebook/create-react-app) dont j'ai modifié la couleur de fond.
