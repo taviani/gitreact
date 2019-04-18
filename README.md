@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/taviani/gitreact.svg?branch=master)](https://travis-ci.org/taviani/gitreact)
+
 C'est juste une version de [Create React App](https://github.com/facebook/create-react-app) dont j'ai modifié la couleur de fond.
 
 Toute l'astuce réside dans le fichier Dockerfile et dans le lien entre mon compte Github et hub.docker.com.

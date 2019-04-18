@@ -1,0 +1,12 @@
+sudo: required
+
+language: python
+
+services:
+  - docker
+
+install: true
+
+script:
+  - docker build . -t gitreact:latest
+  - docker run -d -p 8080:80 gitreact 
