@@ -12,3 +12,5 @@ Ainsi, à chaque commit, le fichier Dockerfile est exécuté et l'appli est buil
 C'est pratique pour le déploiement, il suffit de demander l'image toute prête à Docker.
 
 Je suis content de mon premier dépot Github. J'aime quand ça marche !
+
+`docker run -d -p 3000:80 dockedlac/gitreact:latest`
