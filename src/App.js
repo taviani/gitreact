@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
+import State from "./components/useStateExample";
 import "./App.css";
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
           <p>
               Pour l'instant tout se passe entre les sources sur <code> Github</code> et le build dans <code>DockerHub</code>
           </p>
+          <State />
         </header>
       </div>
     );
