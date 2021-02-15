@@ -1,7 +1,14 @@
-import React, { useState }from "react";
+import React, { useState, useEffect }from "react";
 
 const MyFirstFunctionComponent = () => {
     let [name, setName] = useState('');
+
+
+    useEffect(() => {
+        if (name.length >= 3 ) {
+            document.title = `${name} c'est TA page`;
+        }
+    });
 
        return (
            <div>
