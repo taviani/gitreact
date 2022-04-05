@@ -7,7 +7,7 @@ COPY . ./
 RUN yarn build
 
 # Stage 2 - the production environment
-FROM nginx:alpine
+FROM nginx:1.21.6-alpine
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build-deps /usr/src/app/build /usr/share/nginx/html
 EXPOSE 80
