@@ -19,7 +19,7 @@ Sauf que ça ne marche plus :
 
 -  L'auto build de docker hub est devenu une feature payante
 
-#TODO
+# TODO
 
 -  remettre l'auto build sous forme de workflow : github action
 
