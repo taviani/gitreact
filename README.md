@@ -15,12 +15,12 @@ Je suis content de mon premier dépot Github. J'aime quand ça marche !
 
 Sauf que ça ne marche plus :
 
-- travis-ci.org est arrêté
-- L'auto build de docker hub est devenu une feature payante
+-  travis-ci.org est arrêté
 
-## TODO 
+-  L'auto build de docker hub est devenu une feature payante
 
-- remettre l'auto build sous forme de workflow : github action
+#TODO
 
+-  remettre l'auto build sous forme de workflow : github action
 
 `docker run -d -p 3000:80 dockedlac/gitreact:latest`
