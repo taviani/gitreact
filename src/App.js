@@ -10,7 +10,9 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="pastèque" />
           <p>
-              Pour l'instant tout se passe entre les sources sur <code> Github</code> et plus dans le build dans <code>DockerHub</code>
+            Pour l'instant tout se passe entre les sources sur
+            <code> Github</code>
+            et dans <code>DockerHub</code> via les actions
           </p>
           <State />
         </header>
