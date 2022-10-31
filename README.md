@@ -3,9 +3,6 @@
 [![Codacy Badge](
 https://app.codacy.com/project/badge/Grade/2daade0cbe8d42f08b8f83c74d3f559b)](
 https://www.codacy.com/gh/taviani/gitreact/dashboard)
-[![Known Vulnerabilities](
-https://snyk.io/test/github/taviani/gitreact/badge.svg)](
-https://snyk.io/test/github/taviani/gitreact)
 
 ## About
 
