@@ -6,9 +6,7 @@ https://www.codacy.com/gh/taviani/gitreact/dashboard)
 
 ## About
 
-C'est juste une version de [Create React App](
-https://github.com/facebook/create-react-app
-) dont j'ai modifié la couleur de fond et à laquelle j'ai rajouté un hook.
+C'est juste une version de Vite qyue j'utilise pour avoir un boilerplate de React dont j'ai modifié la couleur de fond et à laquelle j'ai rajouté un hook.
 
 Toute l'astuce réside dans le fichier Dockerfile et dans le workflow Github 
 action qui utilise le secret Github pour se connecter à hub.docker.com.
